@@ -53,3 +53,8 @@ cd /tmp/webfiles
 wget $URL
 unzip $FILE.zip
 sudo cp -r $FOLDER/* /var/www/html/
+
+<img width="1366" height="768" alt="linuxbas2" src="https://github.com/user-attachments/assets/8e33e740-b9b9-4f75-8184-c11b08a8c791" />
+<img width="1366" height="768" alt="linux bash" src="https://github.com/user-attachments/assets/a31c7fef-61c7-4bf4-b178-1f57276e1e59" />
+
+
